@@ -1,6 +1,8 @@
-{
-  "kodlokasi":"101",
-  "namalokasi":"Pulau Pinang",
-  "id":"1",
-  "nama":"Ahmad"
+[
+  {
+    "kodlokasi":"101",
+    "namalokasi":"Pulau Pinang",
+    "id":"1",
+    "nama":"Ahmad"
   }
+]
