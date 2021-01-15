@@ -19,7 +19,27 @@
         {
                 "kodharta":"005",
                 "nama":"Hakim"
-        }
+        },
+        {
+                "kodharta":"006",
+                "nama":"Kassim"
+        },
+        {
+                "kodharta":"007",
+                "nama":"Amir"
+        },
+        {
+                "kodharta":"008",
+                "nama":"Khairul"
+        },
+        {
+                "kodharta":"009",
+                "nama":"Ameera"
+        },
+        {
+                "kodharta":"010",
+                "nama":"Nisa"
+        },
         ],
         
         "postData": [
@@ -29,5 +49,13 @@
                 "nama":"Ahmad",
                 "id":"1"
         }
-        ]
+        ],
+        "getData": [
+        {
+                "kodharta": "001",
+                "kodlokasi":"SA101",
+                "namalokasi":"Pulau Pinang",
+                "nama":"Luqman Hakim"
+        }
+        ]  
 }  
