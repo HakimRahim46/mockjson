@@ -39,7 +39,7 @@
         {
                 "kodharta":"010",
                 "nama":"Nisa"
-        },
+        }
         ],
         
         "postData": [
@@ -50,6 +50,7 @@
                 "id":"1"
         }
         ],
+        
         "getData": [
         {
                 "kodharta": "001",
