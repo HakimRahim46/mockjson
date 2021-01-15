@@ -2,42 +2,52 @@
         "post": [
         {
                 "kodharta": "001",
+                "kodlokasi":"101",
                 "nama":"Ali"
         },
         {
                 "kodharta":"002",
+                "namalokasi":"Pulau Pinang",
                 "nama":"Luqman"
         },
         {
                 "kodharta":"003",
+                "kodlokasi":"101",
                 "nama":"Abu"
         },
         {
                 "kodharta":"004",
+                "namalokasi":"Pulau Pinang",
                 "nama":"Ahmad"
         },
         {
                 "kodharta":"005",
+                "kodlokasi":"101",
                 "nama":"Hakim"
         },
         {
                 "kodharta":"006",
+                "namalokasi":"Pulau Pinang",
                 "nama":"Kassim"
         },
         {
                 "kodharta":"007",
+                "kodlokasi":"101",
                 "nama":"Amir"
         },
         {
                 "kodharta":"008",
+                "namalokasi":"Pulau Pinang",
                 "nama":"Khairul"
         },
         {
                 "kodharta":"009",
+                "kodlokasi":"101",
                 "nama":"Ameera"
         },
         {
                 "kodharta":"010",
+                "namalokasi":"Pulau Pinang",
                 "nama":"Nisa"
         }
         ],
